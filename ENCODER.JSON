@@ -1,0 +1,14 @@
+{
+    "encoder": {
+        "enabled": 1,
+        "definition": [
+            {
+                "pin": [13, 12],
+                "step": 4,
+                "action": [
+                    ["KC_WH_D", "KC_WH_U"]
+                ]
+            }
+        ]
+    }
+}
